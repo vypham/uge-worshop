@@ -1,0 +1,495 @@
+history | less 
+history
+ls /
+man tree
+pwd
+cd
+cd ..
+cd ../../..
+cd ../Gearstantial/
+cd ../G
+cd ruby-koans/
+cd node-fun/
+ls -la
+cd Projects/
+cd Music
+ls -l
+ls
+clear
+ls -R
+man ls
+ls -i
+ls -a
+ls -r
+ls -t
+cd /
+rm ~/.bash_history 
+cd Downloads/
+cd D
+git config --global user.name
+git --version
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'dalenavpham@gmail.com'
+git config --global user.name 'Dalena V Pham'
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+brew update
+ls -G
+ping substantial.com
+git push -u origin master
+git push
+git commit -m "first node server commit"
+git status
+git add .
+git add -A
+git push -A
+git push --set-upstream origin master
+git remote add origin git@github.com:vypham/firstnodeserver.git
+git push origin master
+git init
+node vyserver.js
+ls 
+git commit -m "added edit feature & fixed bugs"
+git commit -m "fixed enter keypress remove button added"
+git remote -v
+git remote set-url origin git@github.com:vypham/todolist.git
+git remote set-url --push origin git@github.com:vypham/todolist.git
+git remote set-url --push git@github.com:vypham/todolist.git
+git remote set-url git@github.com:vypham/todolist.git
+git remote --set-url git@github.com:vypham/todolist.git
+git help remote
+git remote
+git log
+git commit -m "initial commit round 2"
+git add --help
+git push origin master --force
+git commit -m 'initial commit'
+git push origin HEAD:master
+git remote add origin https://github.com/vypham/todolist.git
+git commit -m "pushing current work up"
+git checkout -b master
+git update-ref HEAD master
+cd portfolio/coding\ challenges/todo/
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+ssh -T git@github.com
+pbcopy < ~/.ssh/id_rsa.pub
+ssh-add ~/.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ssh-keygen -t rsa -b 4096 -C "dalenavpham@gmail.com"
+ping novartis.com
+nodemon vyserver.js 
+sudo npm install nodemon -g
+brew install npm
+node vyserver.js 
+celar
+subl node-fun/
+subl .
+mv vyserver.js node-fun
+mkdir node-fun
+rm -r ~/Library/Messages/Attachments/??
+rm -r ~/Library/Messages/chat.*
+rm -f -r ~/Documents/iChats/*
+sudo chmod u+s /usr/sbin/networksetup
+touch testing-terminal.txt
+cd Desktop/
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -users admin -privs -all -restart -agent -menu
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -restart -agent -privs -all
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -restart -agent
+ ssh eleni.local
+ssh wolfman.local
+ssh wolfman@hostname
+wolfman@substantial
+ssh eleni@hostname
+sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Mavericks.app --nointeraction
+exit
+rm -rf Keychains
+cd Library
+killall -KILL Finder
+finder killall
+killall finder
+sudo rm -rf Keychains
+cd /Library/
+rm -rf GusUtils
+git clone https://github.com/substantial/GusUtils.git
+cd ~/Downloads
+defaults write com.apple.screencapture location /Users/vy/Dropbox\ (Substantial)/Screenshots
+defaults write com.apple.screencapture location /Users/vy/Dropbox(Substantial)/Screenshots
+defaults write com.apple.screencapture location /Users/vy/Dropbox (Substantial)/Screenshots
+en0
+ifconfig
+ipconfig
+cd Projects/gems
+grep foodie
+cd 
+cd ~
+vim cli.rb 
+cd lib/foodie/
+find .
+vim lib/foodie.rb
+grep -r "def portray" *
+grep "def portray" *
+grep -r desc *
+grep desc *
+grep -r "pluralize" *
+cat foodie
+cat foodie.rb
+cat *
+cd bin
+vim .
+vim features/food.feature 
+find . | grep feature
+find . --name "*.feature"
+"
+find . --name "*.feature:
+find --name "*.feature"
+find -name "*.feature"
+vim foodie.gemspec 
+grep -r "TODO" *
+grep -r "FIXME" *
+vim Gemfile
+cd gems/foodie
+rails spwd
+chmod +x bin/foodie
+bundler --version
+gem update bundle
+ruby --version
+bundle --version
+git commit -am "added cli file"
+git add lib
+git commit -am "first commit"
+vim .git/config
+git remote add origin git@github.com:vypham/foodie.git
+git remote add origin git@github.com:vypham/gems.git
+cd foodie
+rm -rf .git
+cd gems
+cat features/support/setup.rb
+cat /features/support/setup.rb
+la
+cat features/food.feature
+bundle exec cucumber features
+cat foodie.gemspec
+cat foodie.gemspe
+cat lib/foodie/cli.rb
+bundle exec bin/foodie portray brocooli
+bundle update
+bundle install
+bundle show
+bundle exec cucumber features/
+cd foodie/
+rails s
+rake db:migrate
+rake s
+bundle update i18n
+gem install i18n-0.6.10
+gem install i18n
+bundle exec install
+cd Projects/gearstantial2/
+git lg
+git lg2
+git lg1
+git commit -a
+mv foodie.rb foodie
+chmod +x foodie.rb
+chmod +x foodie
+cat bin
+mv bin foodie/bin
+mv foodie/bin .
+mkdir bin
+mkdir support
+cd features/
+bunble exec cucumber features/
+mkdir features
+vim ~/.gitconfig
+vim /Users/vy/.bash_profile 
+ls -la ~
+git
+git commit
+bundle exec rspec spec
+cd gems/
+vim Rakefile
+cat Rakefile
+vim Rakefie
+ls -ls
+cd ../Projects/
+which ruby
+which bundle
+cd Sites
+cd ../../spec/
+mv foodie_spec.rb ../../spec/
+cat foodie_spec.rb 
+rm foodie.gemspec 
+cat foodie.gemspec 
+cd spec
+mkdir spec
+cd lib
+vim .gitignore 
+vim Rakefile 
+rake
+rvm reinstall ruby-2.0.0-p353
+rvm list
+rvm rubies
+rvm --debug osx-ssl-certs update all
+vim
+vim +BundleInstall +qall
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+ln -s .vim/vimrc .vimrc
+git clone git://github.com/davidmfoley/vim-config.git ~/.vim
+git clone github.com/davidmfoley/vim-config.git ~/.vim
+cd food
+ls -t
+ls moving_around.txt 
+ls moving
+history > moving_around.txt
+history | less 
+history
+ls /
+man tree
+pwd
+cd
+cd ..
+cd ../../..
+cd ../Gearstantial/
+cd ../G
+cd ruby-koans/
+cd node-fun/
+ls -la
+cd Projects/
+cd Music
+ls -l
+ls
+clear
+ls -R
+man ls
+ls -i
+ls -a
+ls -r
+cd /
+rm ~/.bash_history 
+cd Downloads/
+cd D
+git config --global user.name
+git --version
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'dalenavpham@gmail.com'
+git config --global user.name 'Dalena V Pham'
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+brew update
+ls -G
+ping substantial.com
+git push -u origin master
+git push
+git commit -m "first node server commit"
+git status
+git add .
+git add -A
+git push -A
+git push --set-upstream origin master
+git remote add origin git@github.com:vypham/firstnodeserver.git
+git push origin master
+git init
+node vyserver.js
+ls 
+git commit -m "added edit feature & fixed bugs"
+git commit -m "fixed enter keypress remove button added"
+git remote -v
+git remote set-url origin git@github.com:vypham/todolist.git
+git remote set-url --push origin git@github.com:vypham/todolist.git
+git remote set-url --push git@github.com:vypham/todolist.git
+git remote set-url git@github.com:vypham/todolist.git
+git remote --set-url git@github.com:vypham/todolist.git
+git help remote
+git remote
+git log
+git commit -m "initial commit round 2"
+git add --help
+git push origin master --force
+git commit -m 'initial commit'
+git push origin HEAD:master
+git remote add origin https://github.com/vypham/todolist.git
+git commit -m "pushing current work up"
+git checkout -b master
+git update-ref HEAD master
+cd portfolio/coding\ challenges/todo/
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+ssh -T git@github.com
+pbcopy < ~/.ssh/id_rsa.pub
+ssh-add ~/.ssh/id_rsa
+eval "$(ssh-agent -s)"
+ssh-keygen -t rsa -b 4096 -C "dalenavpham@gmail.com"
+ping novartis.com
+nodemon vyserver.js 
+sudo npm install nodemon -g
+brew install npm
+node vyserver.js 
+celar
+subl node-fun/
+subl .
+mv vyserver.js node-fun
+mkdir node-fun
+rm -r ~/Library/Messages/Attachments/??
+rm -r ~/Library/Messages/chat.*
+rm -f -r ~/Documents/iChats/*
+sudo chmod u+s /usr/sbin/networksetup
+touch testing-terminal.txt
+cd Desktop/
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -users admin -privs -all -restart -agent -menu
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -restart -agent -privs -all
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -restart -agent
+ ssh eleni.local
+ssh wolfman.local
+ssh wolfman@hostname
+wolfman@substantial
+ssh eleni@hostname
+sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Mavericks.app --nointeraction
+exit
+rm -rf Keychains
+cd Library
+killall -KILL Finder
+finder killall
+killall finder
+sudo rm -rf Keychains
+cd /Library/
+rm -rf GusUtils
+git clone https://github.com/substantial/GusUtils.git
+cd ~/Downloads
+defaults write com.apple.screencapture location /Users/vy/Dropbox\ (Substantial)/Screenshots
+defaults write com.apple.screencapture location /Users/vy/Dropbox(Substantial)/Screenshots
+defaults write com.apple.screencapture location /Users/vy/Dropbox (Substantial)/Screenshots
+en0
+ifconfig
+ipconfig
+cd Projects/gems
+grep foodie
+cd 
+cd ~
+vim cli.rb 
+cd lib/foodie/
+find .
+vim lib/foodie.rb
+grep -r "def portray" *
+grep "def portray" *
+grep -r desc *
+grep desc *
+grep -r "pluralize" *
+cat foodie
+cat foodie.rb
+cat *
+cd bin
+vim .
+vim features/food.feature 
+find . | grep feature
+find . --name "*.feature"
+"
+find . --name "*.feature:
+find --name "*.feature"
+find -name "*.feature"
+vim foodie.gemspec 
+grep -r "TODO" *
+grep -r "FIXME" *
+vim Gemfile
+cd gems/foodie
+rails spwd
+chmod +x bin/foodie
+bundler --version
+gem update bundle
+ruby --version
+bundle --version
+git commit -am "added cli file"
+git add lib
+git commit -am "first commit"
+vim .git/config
+git remote add origin git@github.com:vypham/foodie.git
+git remote add origin git@github.com:vypham/gems.git
+cd foodie
+rm -rf .git
+cd gems
+cat features/support/setup.rb
+cat /features/support/setup.rb
+la
+cat features/food.feature
+bundle exec cucumber features
+cat foodie.gemspec
+cat foodie.gemspe
+cat lib/foodie/cli.rb
+bundle exec bin/foodie portray brocooli
+bundle update
+bundle install
+bundle show
+bundle exec cucumber features/
+cd foodie/
+rails s
+rake db:migrate
+rake s
+bundle update i18n
+gem install i18n-0.6.10
+gem install i18n
+bundle exec install
+cd Projects/gearstantial2/
+git lg
+git lg2
+git lg1
+git commit -a
+mv foodie.rb foodie
+chmod +x foodie.rb
+chmod +x foodie
+cat bin
+mv bin foodie/bin
+mv foodie/bin .
+mkdir bin
+mkdir support
+cd features/
+bunble exec cucumber features/
+mkdir features
+vim ~/.gitconfig
+vim /Users/vy/.bash_profile 
+ls -la ~
+git
+git commit
+bundle exec rspec spec
+cd gems/
+vim Rakefile
+cat Rakefile
+vim Rakefie
+ls -ls
+cd ../Projects/
+which ruby
+which bundle
+cd Sites
+cd ../../spec/
+mv foodie_spec.rb ../../spec/
+cat foodie_spec.rb 
+rm foodie.gemspec 
+cat foodie.gemspec 
+cd spec
+mkdir spec
+cd lib
+vim .gitignore 
+vim Rakefile 
+rake
+rvm reinstall ruby-2.0.0-p353
+rvm list
+rvm rubies
+rvm --debug osx-ssl-certs update all
+vim
+vim +BundleInstall +qall
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+ln -s .vim/vimrc .vimrc
+git clone git://github.com/davidmfoley/vim-config.git ~/.vim
+git clone github.com/davidmfoley/vim-config.git ~/.vim
+cd food
