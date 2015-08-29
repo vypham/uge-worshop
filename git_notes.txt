@@ -1,4 +1,22 @@
+git config --global user.name ""
+git config -- global user.email ""
+
+git init # initializes version controlling system
+# it keeps track of all changes made on this directory
+
+git status # tells you what files are being created/deleted
+# modified. If you're about to move things from local to
+# remote, it will also tell you that too. this is helpeful to
+# show which files were not touched and which were
+
+git add <filename> # addes the file that you want to put to the staging area
+
+git add . # adds all files in the given directory
+
+git commit <filename> -m "message here" # takes the file and commits the changes from staging to a commit. It also gives you the opportunity to leave notes
+
 # this is a list of notes for git and learning git
 git checkout <branchname> puts you on a branch that exists
 # if a branch does NOT exist, you must first create it
 git branch <branchname> # this creates a branch and gives it a name
+
