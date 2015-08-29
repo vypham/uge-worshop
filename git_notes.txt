@@ -1,0 +1,4 @@
+# this is a list of notes for git and learning git
+git checkout <branchname> puts you on a branch that exists
+# if a branch does NOT exist, you must first create it
+git branch <branchname> # this creates a branch and gives it a name
