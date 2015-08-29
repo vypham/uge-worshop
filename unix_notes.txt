@@ -1,4 +1,4 @@
-history | less 
+#history | less
 history
 ls /
 man tree
@@ -23,7 +23,7 @@ ls -a
 ls -r
 ls -t
 cd /
-rm ~/.bash_history 
+rm ~/.bash_history
 cd Downloads/
 cd D
 git config --global user.name
@@ -38,7 +38,7 @@ echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-fish_update_completions 
+fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 brew update
 ls -G
@@ -55,7 +55,7 @@ git remote add origin git@github.com:vypham/firstnodeserver.git
 git push origin master
 git init
 node vyserver.js
-ls 
+ls
 git commit -m "added edit feature & fixed bugs"
 git commit -m "fixed enter keypress remove button added"
 git remote -v
@@ -84,10 +84,10 @@ ssh-add ~/.ssh/id_rsa
 eval "$(ssh-agent -s)"
 ssh-keygen -t rsa -b 4096 -C "dalenavpham@gmail.com"
 ping novartis.com
-nodemon vyserver.js 
+nodemon vyserver.js
 sudo npm install nodemon -g
 brew install npm
-node vyserver.js 
+node vyserver.js
 celar
 subl node-fun/
 subl .
@@ -127,9 +127,9 @@ ifconfig
 ipconfig
 cd Projects/gems
 grep foodie
-cd 
+cd
 cd ~
-vim cli.rb 
+vim cli.rb
 cd lib/foodie/
 find .
 vim lib/foodie.rb
@@ -143,14 +143,14 @@ cat foodie.rb
 cat *
 cd bin
 vim .
-vim features/food.feature 
+vim features/food.feature
 find . | grep feature
 find . --name "*.feature"
 "
 find . --name "*.feature:
 find --name "*.feature"
 find -name "*.feature"
-vim foodie.gemspec 
+vim foodie.gemspec
 grep -r "TODO" *
 grep -r "FIXME" *
 vim Gemfile
@@ -208,7 +208,7 @@ cd features/
 bunble exec cucumber features/
 mkdir features
 vim ~/.gitconfig
-vim /Users/vy/.bash_profile 
+vim /Users/vy/.bash_profile
 ls -la ~
 git
 git commit
@@ -224,14 +224,14 @@ which bundle
 cd Sites
 cd ../../spec/
 mv foodie_spec.rb ../../spec/
-cat foodie_spec.rb 
-rm foodie.gemspec 
-cat foodie.gemspec 
+cat foodie_spec.rb
+rm foodie.gemspec
+cat foodie.gemspec
 cd spec
 mkdir spec
 cd lib
-vim .gitignore 
-vim Rakefile 
+vim .gitignore
+vim Rakefile
 rake
 rvm reinstall ruby-2.0.0-p353
 rvm list
@@ -245,10 +245,10 @@ git clone git://github.com/davidmfoley/vim-config.git ~/.vim
 git clone github.com/davidmfoley/vim-config.git ~/.vim
 cd food
 ls -t
-ls moving_around.txt 
+ls moving_around.txt
 ls moving
 history > moving_around.txt
-history | less 
+history | less
 history
 ls /
 man tree
@@ -272,7 +272,7 @@ ls -i
 ls -a
 ls -r
 cd /
-rm ~/.bash_history 
+rm ~/.bash_history
 cd Downloads/
 cd D
 git config --global user.name
@@ -287,7 +287,7 @@ echo $EDITOR
 subl ~/.config/fish/config.fish
 ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 brew info fish
-fish_update_completions 
+fish_update_completions
 curl -fsSL http://git.io/beJs | ruby
 brew update
 ls -G
@@ -304,7 +304,7 @@ git remote add origin git@github.com:vypham/firstnodeserver.git
 git push origin master
 git init
 node vyserver.js
-ls 
+ls
 git commit -m "added edit feature & fixed bugs"
 git commit -m "fixed enter keypress remove button added"
 git remote -v
@@ -333,10 +333,10 @@ ssh-add ~/.ssh/id_rsa
 eval "$(ssh-agent -s)"
 ssh-keygen -t rsa -b 4096 -C "dalenavpham@gmail.com"
 ping novartis.com
-nodemon vyserver.js 
+nodemon vyserver.js
 sudo npm install nodemon -g
 brew install npm
-node vyserver.js 
+node vyserver.js
 celar
 subl node-fun/
 subl .
@@ -376,9 +376,9 @@ ifconfig
 ipconfig
 cd Projects/gems
 grep foodie
-cd 
+cd
 cd ~
-vim cli.rb 
+vim cli.rb
 cd lib/foodie/
 find .
 vim lib/foodie.rb
@@ -392,14 +392,14 @@ cat foodie.rb
 cat *
 cd bin
 vim .
-vim features/food.feature 
+vim features/food.feature
 find . | grep feature
 find . --name "*.feature"
 "
 find . --name "*.feature:
 find --name "*.feature"
 find -name "*.feature"
-vim foodie.gemspec 
+vim foodie.gemspec
 grep -r "TODO" *
 grep -r "FIXME" *
 vim Gemfile
@@ -457,7 +457,7 @@ cd features/
 bunble exec cucumber features/
 mkdir features
 vim ~/.gitconfig
-vim /Users/vy/.bash_profile 
+vim /Users/vy/.bash_profile
 ls -la ~
 git
 git commit
@@ -473,14 +473,14 @@ which bundle
 cd Sites
 cd ../../spec/
 mv foodie_spec.rb ../../spec/
-cat foodie_spec.rb 
-rm foodie.gemspec 
-cat foodie.gemspec 
+cat foodie_spec.rb
+rm foodie.gemspec
+cat foodie.gemspec
 cd spec
 mkdir spec
 cd lib
-vim .gitignore 
-vim Rakefile 
+vim .gitignore
+vim Rakefile
 rake
 rvm reinstall ruby-2.0.0-p353
 rvm list
